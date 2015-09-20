@@ -12,7 +12,7 @@ gulp.task('build', shell.task(['jekyll build --watch']));
 gulp.task('browser-sync', function() {
 	browserSync.init({
 		server: {
-			baseDir: '_site/'
+			baseDir: ''
 		},
 		notify: false,
 		ghostMode: false

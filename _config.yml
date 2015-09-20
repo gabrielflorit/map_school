@@ -12,6 +12,8 @@ url:                 http://gabrielflorit.github.io/map_school
 baseurl:             /map_school
 paginate:            5
 
+destination:         ./map_school
+
 # # About/contact
 # author:
 #   name:              Mark Otto
