@@ -4,7 +4,7 @@ var browserSync = require('browser-sync').create();
 var runSequence = require('run-sequence');
 
 gulp.task('watch', function() {
-	gulp.watch('_site/**/*.*').on('change', browserSync.reload);
+	gulp.watch('map_school/**/*.*').on('change', browserSync.reload);
 });
 
 gulp.task('build', shell.task(['jekyll build --watch']));
