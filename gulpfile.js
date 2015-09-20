@@ -14,6 +14,7 @@ gulp.task('browser-sync', function() {
 		server: {
 			baseDir: ''
 		},
+		startPath: '/map_school/',
 		notify: false,
 		ghostMode: false
 	});
