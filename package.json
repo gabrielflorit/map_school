@@ -1,0 +1,26 @@
+{
+  "name": "map_school",
+  "version": "1.0.0",
+  "description": "Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielflorit/map_school.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielflorit/map_school/issues"
+  },
+  "homepage": "https://github.com/gabrielflorit/map_school#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.4.3",
+    "lodash": "^3.10.1",
+    "run-sequence": "^1.1.3"
+  }
+}

@@ -5,10 +5,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Map school
+tagline:             ''
+description:         ''
+url:                 http://gabrielflorit.github.io/map_school/
 baseurl:             http://gabrielflorit.github.io/map_school/
 paginate:            5
 
@@ -20,3 +20,5 @@ paginate:            5
 
 # Custom vars
 version:             1.0.0
+
+exclude:             [node_modules, gulpfile.js]
