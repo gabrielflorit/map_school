@@ -8,8 +8,8 @@ relative_permalinks: true
 title:               Map school
 tagline:             ''
 description:         ''
-url:                 http://gabrielflorit.github.io/map_school/
-baseurl:             http://gabrielflorit.github.io/map_school/
+url:                 http://gabrielflorit.github.io/map_school
+baseurl:             /map_school
 paginate:            5
 
 # # About/contact
